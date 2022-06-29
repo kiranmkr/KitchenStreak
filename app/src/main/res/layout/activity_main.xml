@@ -76,7 +76,7 @@
         android:layout_gravity="start"
         android:clipToPadding="false"
         app:headerLayout="@layout/nav_header_main"
-        app:itemIconTint="@color/purple_500"
+        app:itemIconTint="@color/colorPrimary"
         app:itemTextColor="@color/black"
         app:menu="@menu/main_menu" />
 

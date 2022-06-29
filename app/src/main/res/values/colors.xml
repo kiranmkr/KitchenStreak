@@ -9,8 +9,8 @@
     <color name="white">#FFFFFFFF</color>
 
     <!--<color name="colorPrimary">#6200EE</color>-->
-    <color name="colorPrimary">#FF6200EE</color>
+    <color name="colorPrimary">#CA0422</color>
     <!--<color name="colorPrimaryDark">#3700B3</color>-->
-    <color name="colorPrimaryDark">#FF3700B3</color>
-    <color name="colorAccent">#FFBB86FC</color>
+    <color name="colorPrimaryDark">#CA0422</color>
+    <color name="colorAccent">#CA0422</color>
 </resources>
