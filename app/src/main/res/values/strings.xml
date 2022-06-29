@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">KitchenStreak</string>
+    <string name="app_name">Kitchen Streak</string>
+
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="our_more_apps">Our More Apps</string>
+    <string name="share_app">Share App</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="rate_us">Rate Us</string>
+
+    <string name="choose_one">Choose One</string>
+
+    <string name="images">image</string>
 </resources>

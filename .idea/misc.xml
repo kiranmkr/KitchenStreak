@@ -3,8 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/KitchenStreak/app/src/main/res/drawable/ic_rateus.xml" value="0.2265" />
+        <entry key="..\:/KitchenStreak/app/src/main/res/drawable/ic_round_menu.xml" value="0.248" />
         <entry key="..\:/KitchenStreak/app/src/main/res/drawable/launcher_screen_with_logo.xml" value="0.2265" />
-        <entry key="..\:/KitchenStreak/app/src/main/res/layout/activity_main.xml" value="0.228125" />
+        <entry key="..\:/KitchenStreak/app/src/main/res/layout/activity_main.xml" value="0.2421875" />
+        <entry key="..\:/KitchenStreak/app/src/main/res/layout/nav_header_main.xml" value="0.2421875" />
+        <entry key="..\:/KitchenStreak/app/src/main/res/menu/main_menu.xml" value="0.2421875" />
         <entry key="..\:/KitchenStreak/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2265" />
         <entry key="..\:/KitchenStreak/app/src/main/res/mipmap-hdpi/ic_launcher.xml" value="0.2265" />
       </map>
